@@ -5,10 +5,16 @@ A fork of [`rollup-plugin-elm`](https://github.com/ulisses-alves/rollup-plugin-e
 
 ## Usage
 
-Installation:
+Since it is not published yet, consider adding the package from git if you have to.
 
-```sh
-$ npm install -D vite-plugin-elm
+In `package.json`:
+
+```json
+{
+  "devDependencies": {
+    "vite-plugin-elm": "git@github.com:lettenj61/vite-plugin-elm.git#0.2.0"
+  }
+}
 ```
 
 Configure:
