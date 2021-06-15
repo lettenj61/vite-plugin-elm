@@ -1,9 +1,11 @@
 {
   "name": "vite-plugin-elm",
-  "version": "0.1.2",
-  "description": "Hot module relacement for Elm in vitejs/vite",
+  "version": "0.2.0",
+  "description": "Elm plugin for vitejs/vite",
   "main": "dist/plugin.js",
   "files": [
+    "LICENSE-Apache",
+    "LICENSE-MIT",
     "dist"
   ],
   "types": "dist/plugin.d.ts",
