@@ -1,5 +1,5 @@
 {
-  "name": "@lttn/vite-plugin-elm",
+  "name": "vite-plugin-elm",
   "version": "0.1.0",
   "description": "Hot module relacement for Elm in vitejs/vite",
   "main": "dist/plugin.js",
